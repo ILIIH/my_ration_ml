@@ -1,0 +1,5 @@
+# Ignore local constants file
+constants.py
+**/__pycache__/
+*.csv
+*.json
